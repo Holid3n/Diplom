@@ -11,3 +11,4 @@
 <br> В игре одна локация: банк. Задача игрока грабить банк и в дальнейшем прокачивать персонажа с оружием, а так же помощника игрока.
 ![image](https://github.com/Holid3n/Diplom/assets/97594334/d8a9dbd4-8091-4f48-b59a-60a559d4487d)
 ![image](https://github.com/Holid3n/Diplom/assets/97594334/5aa02573-ca6b-414f-94b7-44aaefb81b7b)
+![image](https://github.com/Holid3n/Diplom/assets/97594334/135c33a0-b531-4ed9-8c84-6a9f365ddba1)
